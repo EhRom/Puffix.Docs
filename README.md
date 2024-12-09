@@ -4,4 +4,5 @@ This repository contains documentation on various topics in the field of softwar
 
 ## DevOps
 
-- [Use Github CLI in GitHub Actions]
+- [Use Github CLI in GitHub Actions](./DevOps/GitHub_CLI_in_GitHub_Actions.md)
+- [GitHub CLI in Github Actions with GitHub Actions](./DevOps/Create_GitHub_Release_with_GitHub_Actions.md)

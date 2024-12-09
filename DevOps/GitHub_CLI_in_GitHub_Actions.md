@@ -1,6 +1,6 @@
 # GitHub CLI in Github Actions
 
-To use Github CLI in a Github Action (Workflow), the `GH_TOKEN` environment variable must be linked to the action. The `GH_TOKEN` environment variable is linked to a secret, which contains a secret and a scope.
+To use GitHub CLI in a GitHub Action (Workflow), the `GH_TOKEN` environment variable must be linked to the action. The `GH_TOKEN` environment variable is linked to a secret, which contains a secret and a scope.
 
 Example:
 ```yaml
